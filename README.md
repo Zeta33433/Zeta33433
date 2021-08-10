@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeta33433
 - 👀 I’m interested in something interesting
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me here or there
 
